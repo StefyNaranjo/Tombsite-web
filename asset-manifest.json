@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Tombsite-Web/static/css/main.e6c13ad2.css",
-    "main.js": "/Tombsite-Web/static/js/main.8f519750.js",
+    "main.css": "/Tombsite-Web/static/css/main.11e6ff6a.css",
+    "main.js": "/Tombsite-Web/static/js/main.020eee7d.js",
+    "static/media/logo.png": "/Tombsite-Web/static/media/logo.0aa4047b5ab47b83a07d.png",
     "index.html": "/Tombsite-Web/index.html",
-    "main.e6c13ad2.css.map": "/Tombsite-Web/static/css/main.e6c13ad2.css.map",
-    "main.8f519750.js.map": "/Tombsite-Web/static/js/main.8f519750.js.map"
+    "main.11e6ff6a.css.map": "/Tombsite-Web/static/css/main.11e6ff6a.css.map",
+    "main.020eee7d.js.map": "/Tombsite-Web/static/js/main.020eee7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8f519750.js"
+    "static/css/main.11e6ff6a.css",
+    "static/js/main.020eee7d.js"
   ]
 }
